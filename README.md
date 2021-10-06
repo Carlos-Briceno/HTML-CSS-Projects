@@ -7,4 +7,4 @@
     In this folder is where i learned how to create basic websites using HTML and CSS.
   
 # Basic HTML and JavaScript
-    In this folder I learned how to create basic functions using JavaScript. I also made a basic website that uses JS to make an alert when the website is opened.
+    In this folder I learned how to create basic functions using JavaScript. I also made a basic website that uses JS to make an alert box.
