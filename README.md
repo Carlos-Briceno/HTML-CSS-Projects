@@ -4,6 +4,7 @@
      In these assignments I used HTML, CSS and JavaScript.
 
 # Basic HTML and CSS
-  $In this folder is where i learned how to create basic websites using HTML and CSS.
+    In this folder is where i learned how to create basic websites using HTML and CSS.
   
-#
+# Basic HTML and JavaScript
+    In this folder I learned how to create basic websites using HTML and JavaScript.
