@@ -1,3 +1,3 @@
 # HTML-CSS-Projects
-Making this for all my projects in the html and css course!
-
+  # School Assignments
+    * In this I had to do many various assignments
